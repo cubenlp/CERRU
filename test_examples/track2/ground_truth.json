@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "sentence": "这是第一个测试样例，用于测试track2的评测。",
+    "prediction": [
+      {
+        "rhetorical": "比喻",
+        "content": "实在物"
+      },
+      {
+        "rhetorical": "比拟",
+        "content": "拟人"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sentence": "这是第二个测试样例，用于测试track2的评测。",
+    "prediction": null
+  }
+]

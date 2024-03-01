@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "sentence": "这是第一个测试样例，用于测试track3的评测。",
+    "prediction": [
+      {
+        "conjunctionBeginIdx": 1,
+        "conjunctionEndIdx": 2,
+        "tenorBeginIdx": null,
+        "tenorEndIdx": null,
+        "vehicleBeginIdx": 5,
+        "vehicleEndIdx": 6
+      },
+      {
+          "conjunctionBeginIdx": 7,
+          "conjunctionEndIdx": 8,
+          "tenorBeginIdx": null,
+          "tenorEndIdx": null,
+          "vehicleBeginIdx": null,
+          "vehicleEndIdx": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sentence": "这是第二个测试样例，用于测试track3的评测。",
+    "prediction": null
+  }
+]
