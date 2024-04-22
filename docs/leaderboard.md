@@ -1,6 +1,6 @@
 # Leaderboard
 
-**说明：  榜单按score得分降序排序， score为Track1、Track2和Track3的算术平均数。**
+**榜单按score得分降序排序， score为Track1、Track2和Track3的算术平均数。**
 
 ## 2024/04/23 
 
