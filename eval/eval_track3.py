@@ -14,7 +14,7 @@ class EvaluateTrack3(Evaluate):
         assert len(begin_idx) == len(end_idx)
         for i, (begin, end) in enumerate(zip(begin_idx, end_idx)):
             if begin is not None and end is not None:
-                assert begin <= end < len(sentence)
+                assert 0 <= begin <= end < len(sentence)
             else:
                 assert (begin is None and end is None) or (begin is not None and end is not None)
             if begin is not None and end is not None:
